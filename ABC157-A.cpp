@@ -15,6 +15,6 @@ int main()
     else
         cout<<n/2;
 
-        
+
     return 0;
 }
